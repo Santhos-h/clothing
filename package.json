@@ -1,6 +1,6 @@
 {
   "name": "my-project",
-  "homepage" : "https://santhos-h.github.io/cloth-shop/",
+  "homepage" : "https://santhos-h.github.io/cloth-shop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
