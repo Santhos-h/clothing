@@ -34,7 +34,7 @@ const Navbar = () => {
             <ShoppingCart/> 
             <div className='bg-red-500 w-5 absolute -top-2 right-1 flex items-center justify-center rounded-full text-white'>{getTotalCartItems()}</div>
             </Link>
-            {/* mobile hamburger icon */}
+            
             {showMenu ? (
               <HiMenuAlt1 onClick={toggleMenu} className='cursor-pointer transition-all md:hidden' size={30}/>
             ):(
