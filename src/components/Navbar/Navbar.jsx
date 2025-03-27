@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className='flex items-center gap-5'>
             <nav className='hidden md:block'>
                 <ul className='flex items-center font-semibold text-xl gap-7'>
-                    <Link index to='/'><li>Home</li></Link>
+                    <Link to='/clothing'><li>Home</li></Link>
                     <Link to='/mens'><li>Mens</li></Link>
                     <Link to='/womens'><li>Womens</li></Link>
                     <Link to='/kids'><li>Kids</li></Link>
